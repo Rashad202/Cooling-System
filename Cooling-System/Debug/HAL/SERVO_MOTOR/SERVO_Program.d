@@ -1,0 +1,17 @@
+HAL/SERVO_MOTOR/SERVO_Program.o HAL/SERVO_MOTOR/SERVO_Program.o:  \
+ ../HAL/SERVO_MOTOR/SERVO_Program.c \
+  ../HAL/SERVO_MOTOR/../../LIB/STD_TYPES.h \
+  ../HAL/SERVO_MOTOR/../../LIB/BIT_MATH.h \
+  ../HAL/SERVO_MOTOR/SERVO_Interface.h \
+  ../HAL/SERVO_MOTOR/../../MCAL/DIO/DIO_Interface.h \
+  ../HAL/SERVO_MOTOR/../../MCAL/TIMERS/TIMER1/TIMER1_Interface.h
+
+../HAL/SERVO_MOTOR/../../LIB/STD_TYPES.h:
+
+../HAL/SERVO_MOTOR/../../LIB/BIT_MATH.h:
+
+../HAL/SERVO_MOTOR/SERVO_Interface.h:
+
+../HAL/SERVO_MOTOR/../../MCAL/DIO/DIO_Interface.h:
+
+../HAL/SERVO_MOTOR/../../MCAL/TIMERS/TIMER1/TIMER1_Interface.h:
